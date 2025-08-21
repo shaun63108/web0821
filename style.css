@@ -1,0 +1,44 @@
+.num01 {
+    width: 300px;
+    border: 1px solid #000000;
+}
+
+img {
+    width: 100%;
+    margin: 0;
+}
+
+.caption {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: justify;
+}
+.num01_in {
+    padding: 5%;
+    width: 90%;
+}
+
+.num01_in .link_buttom {
+    width: 80%;
+    background-color: rgb(85, 85, 216);
+    border: 1px solid;
+    padding:3% 5%;
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    margin-left:5% ;
+    font-size: 20px;
+}
+
+h2 {
+    font-weight: lighter;
+    margin: 0;
+}
+
+.num01_in p {
+    font-size: 19px;
+    line-height: 20px;
+    text-align: justify;
+}
